@@ -22,23 +22,23 @@ Vine table
 
 ## Results
 ---
-- Total number of reviews and 5 star reviews in the raw data
-	There were a total of 1,740,974 reviews of tools in the data category that I selected.
-	There were a total of 1,113,482 reviews with 5 stars in the raw data.
-	This indicates that 63.98% of the total number of reviews are 5 stars.
+- Total number of reviews and 5 star reviews in the raw data:
+	- There were a total of 1,740,974 reviews of tools in the data category that I selected.
+	- There were a total of 1,113,482 reviews with 5 stars in the raw data.
+	- This indicates that 63.98% of the total number of reviews are 5 stars.
 
 ### To further evaluate the data, we chose to only look at products that had at least 20 reviews, and furthermore that of those more than 50% of the reviews were considered "helpful".
 - How many Vine reviews and non-Vine reviews were there?
-	There were 285 Vine reviews.
-	There were 31,542 non-Vine reviews.
+	- There were 285 Vine reviews.
+	- There were 31,542 non-Vine reviews.
 
-- How many Vine reviews were 5 stars?  How many non-Vine reviews were 5 stars
-	There were 163 Vine reviews that were 5 stars.
-	There were 14,614 non-Vine reviews that were 5 stars.
+- How many Vine reviews were 5 stars?  How many non-Vine reviews were 5 stars?
+	- There were 163 Vine reviews that were 5 stars.
+	- There were 14,614 non-Vine reviews that were 5 stars.
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-	Of the paid Vine reviews, 57.2% were 5 stars.
-	Of the non-Vine reviews, 46.33% were 5 stars.
+	- Of the paid Vine reviews, 57.2% were 5 stars.
+	- Of the non-Vine reviews, 46.33% were 5 stars.
 
 - The percentage of 5 star reviews from the rows with 20 or more votes was 42.85% (regardless of Vine status.)
 - The percentage of 5 star reviews from the rows with 20 or more votes and more than 50% helpful reviews was 46.43% (regardless of Vine status.)
